@@ -102,4 +102,9 @@ same text classification task.
 
 ## Author
 
-Add your name and academic details here before publishing, if required.
+**Name:** CHENNAKESAVAN K  
+**Department:** Artificial Intelligence and Machine Learning  
+**Project:** CNN vs LSTM for Sentiment Analysis  
+**Platform:** Google Colab
+
+
